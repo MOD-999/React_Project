@@ -1,13 +1,15 @@
 import "./style.css"
+import { Link } from "react-router-dom";
+
 function Header() {
     return (
-        <div className="fixed-header">
+        <header className="fixed-header">
             <nav>
-                <a href="#">Home</a>
-                <a href="#">About</a>
-                <a href="#">Contact Us</a>
+                <Link to="/">Home</Link>
+                <Link to="/about">About</Link>
+                <Link to="/contact">Contact Us</Link>
             </nav>
-        </div>
+        </header>
     )
 }
 export default Header

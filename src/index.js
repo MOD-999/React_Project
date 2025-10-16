@@ -1,16 +1,12 @@
-import ReactDOM from "react-dom/client"
-import Header from "./components/Header"
-import Container from "./components/Container"
-import Footer from "./components/Footer"
+import App from './App';
+import ReactDOM from "react-dom/client";
 import "./style.css"
+import { BrowserRouter } from 'react-router-dom';
 
-function App() {
-    return (
-        <>
-            <Header />
-            <Container />
-            <Footer/>
-        </>
-    )
-}
-ReactDOM.createRoot(document.getElementById("root")).render(<App/>)
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+    <BrowserRouter>
+        <App/>
+    </BrowserRouter>
+);
+
