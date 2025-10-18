@@ -18,5 +18,45 @@
     "title": "Elegant Handbag",
     "description": "Chic handbag with refined details to elevate your outfit.",
     "image": "handbag.png"
+  },
+  {
+    "title": "Air Max Sneakers",
+    "description": "Cushioned sneakers with a sporty design for all‑day comfort.",
+    "image": "air max.png"
+  },
+  {
+    "title": "Stylish Bracelet",
+    "description": "Minimal bracelet that adds a subtle shine to your look.",
+    "image": "bracelet.png"
+  },
+  {
+    "title": "Cotton Crew Socks",
+    "description": "Breathable cotton socks designed for everyday comfort.",
+    "image": "cotton socks.png"
+  },
+  {
+    "title": "Classic Gold Ring",
+    "description": "Timeless ring crafted for a refined, elegant style.",
+    "image": "ring.png"
+  },
+  {
+    "title": "Casual Canvas Shoes",
+    "description": "Lightweight everyday shoes with a relaxed, versatile style.",
+    "image": "shoes.png"
+  },
+  {
+    "title": "Smart Watch",
+    "description": "Feature‑packed smartwatch to track fitness and stay connected.",
+    "image": "smart watch.png"
+  },
+  {
+    "title": "Straight Fit Jeans",
+    "description": "Classic straight‑leg jeans with a comfortable mid‑rise fit.",
+    "image": "straight jeans.png"
+  },
+  {
+    "title": "Classic Analog Watch",
+    "description": "Elegant analog watch with a clean dial for everyday wear.",
+    "image": "watch.png"
   }
 ]

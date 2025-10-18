@@ -6,7 +6,6 @@ function Container() {
   return (
     <div className="container">
       {productsList()}
-      {productsList()}
     </div>
   );
 }
