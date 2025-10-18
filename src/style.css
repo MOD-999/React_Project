@@ -1,0 +1,24 @@
+/* Global layout adjustments to avoid overlap with fixed header/footer */
+:root {
+	/* Tune these if you change header/footer sizes */
+	--header-height: 56px;
+	--footer-height: 46px;
+}
+
+#root { min-height: 100vh; }
+
+/* Ensure consistent box sizing to avoid unexpected overflow */
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	box-sizing: border-box;
+	padding-top: var(--header-height);
+	padding-bottom: var(--footer-height);
+}
+
+main {
+	padding: 16px;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Classic Cotton T‑Shirt",
+    "description": "Soft, breathable cotton tee perfect for everyday wear.",
+    "image": "t-shirt.png"
+  },
+  {
+    "title": "Modern Oxford Shirt",
+    "description": "Smart, tailored fit shirt ideal for work or smart-casual outings.",
+    "image": "shirt.png"
+  },
+  {
+    "title": "Leather Tote Bag",
+    "description": "Spacious and durable tote with a minimalist design for daily essentials.",
+    "image": "bag.png"
+  },
+  {
+    "title": "Elegant Handbag",
+    "description": "Chic handbag with refined details to elevate your outfit.",
+    "image": "handbag.png"
+  }
+]
