@@ -9,7 +9,7 @@ function ProductCard(props) {
             />
             <h2 className="product-title">{props.title}</h2>
             <p className="product-description">{props.description}</p>
-            <button className="read-more">Read More</button>
+            <a className="read-more">Read More</a>
         </div>
     )
 }
